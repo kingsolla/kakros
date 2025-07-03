@@ -177,8 +177,8 @@ class PharosTestnet:
 """
         print(f"{Style.BRIGHT + Fore.CYAN}{banner}")
         print(f"{Style.BRIGHT + Fore.MAGENTA}{'=' * 50}")
-        print(f"{Fore.CYAN}     PHAROS INI")
-        print(f"{Fore.CYAN}           OKE NGNTD           ")
+        print(f"{Fore.CYAN}PHAROS INI")
+        print(f"{Fore.CYAN}OKE NGNTD")
         print(f"{Style.BRIGHT + Fore.MAGENTA}{'=' * 50}")
         print(f"{Fore.GREEN}1. Wrap PHRS to WPHRS")
         print(f"{Fore.YELLOW}2. Unwrap WPHRS to PHRS")
